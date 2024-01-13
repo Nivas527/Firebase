@@ -24,7 +24,7 @@ class _existState extends State<exist> {
           TextFormField(
             controller: emailctrl,
             decoration: InputDecoration(
-              labelText: "Enter Email ID"
+              labelText: "Enter email ID"
             ),
           ),
           TextFormField(
